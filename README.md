@@ -71,9 +71,5 @@ This project was developed as part of a backend development assignment, and it d
 - Node.js installed on your machine.
 - A tool like Postman to test APIs.
 
-### Steps:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/online-book-review-app.git
-   cd online-book-review-app
+
 
